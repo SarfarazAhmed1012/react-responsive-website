@@ -7,4 +7,6 @@ In the project directory, open cmd and type:
 
 ### `npm start`
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/69521378/183258017-5dfcf5d0-0e10-4352-bdcf-49bc330c9208.gif)
+## Demo
+
+[Untitled.webm](https://user-images.githubusercontent.com/69521378/183258229-633a5d45-5644-43e6-b501-162c69b5676d.webm)
