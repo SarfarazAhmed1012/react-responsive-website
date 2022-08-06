@@ -9,4 +9,4 @@ In the project directory, open cmd and type:
 
 ## Demo
 
-[Untitled.webm](https://user-images.githubusercontent.com/69521378/183258229-633a5d45-5644-43e6-b501-162c69b5676d.webm)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/69521378/183258297-d9773f9a-d94e-48d9-8951-c9a41a97a422.gif)
